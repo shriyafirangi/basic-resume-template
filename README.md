@@ -1,1 +1,2 @@
+#basic-resume-template
 A clean, modern, and lightweight digital resume template built entirely with basic HTML. This project provides a single-file, responsive layout designed to showcase a professional profile, work history, technical skills, and education cleanly across all screen sizes.
